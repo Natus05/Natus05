@@ -1,11 +1,6 @@
-- 👋 Hi, I’m Adeyemo Fortunatus (Natus05🤙)
-A Front-end Web developer
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Adeyemo Fortunatus (Natus05🤙) A Front-end Web developer
 - 👨‍💻 I work with react.js and JavaScript
-- 🌱 I’m currently learning ...
+- 🌱 I develop functional and appealing web and mobile-based applications based on usability and use a combination of markup languages to write web pages
 - 📫 Connect with me (adeyemolekan433@gmail.com)
 
-<!---
-Natus05/Natus05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
